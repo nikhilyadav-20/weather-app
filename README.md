@@ -1,4 +1,4 @@
-# 🌦️ Nimbus — Weather App
+# 🌦️Weather App
 
 A clean, atmospheric weather dashboard built with **FastAPI** (backend) and vanilla **HTML/CSS/JS** (frontend).
 
